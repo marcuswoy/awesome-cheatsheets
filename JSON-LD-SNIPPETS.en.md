@@ -1,4 +1,5 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 # Structured Data Snippets: The Practical Cheat Sheet 😎
 
 ## 🤔 Why Cheat Sheets

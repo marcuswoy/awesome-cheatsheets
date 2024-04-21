@@ -1,5 +1,4 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Lizenz](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/LICENSE)
-
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # Awesome ChatGPT Cheat Sheet 2024 😎
 
 ## 🤔 Warum ein Spickzettel?
