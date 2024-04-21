@@ -10,6 +10,36 @@ This category includes advanced tools and platforms that interact with ChatGPT.
 
 If you have a cool link that is missing here, please let me know 🤝.
 
+# Table of Contents
+
+1. [Official resources from OpenAI](#official-resources-from-openai)
+2. [Community and free AI resources](#community-and-free-ai-resources)
+3. [ChatGPT integrations and projects](#chatgpt-integrations-and-projects)
+    - [Python](#python)
+    - [Go and Kotlin](#go-and-kotlin)
+    - [JavaScript and Node.js](#javascript-and-nodejs)
+4. [API tools and libraries](#api-tools-and-libraries)
+5. [Client-side tools and libraries](#client-side-tools-and-libraries)
+6. [Browser extensions and user scripts](#browser-extensions-and-user-scripts)
+7. [Desktop applications](#desktop-applications)
+8. [Editor plugins](#editor-plugins)
+    - [Vim](#vim)
+    - [Emacs](#emacs)
+    - [VSCode](#vscode)
+    - [Jetbrains](#jetbrains)
+    - [Other](#other)
+9. [Chatbots](#chatbots)
+10. [Advanced ChatGPT functions](#advanced-chatgpt-functions)
+11. [Web applications](#web-applications)
+12. [CLI tools and shell extensions](#cli-tools-and-shell-extensions)
+13. [GitHub actions](#github-actions)
+14. [Cybersecurity tools](#cybersecurity-tools)
+15. [Prompt collections and tools](#prompt-collections-and-tools)
+16. [Reverse proxies and alternative endpoints](#reverse-proxies-and-alternative-endpoints)
+17. [AI experiments and research](#ai-experiments-and-research)
+18. [Language models and alternatives](#language-models-and-alternatives)
+19. [Other](#other)
+
 ## Official resources from OpenAI
 
 - [Official ChatGPT app](https://chat.openai.com) - Official web app from OpenAI for ChatGPT

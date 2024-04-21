@@ -10,6 +10,36 @@ Diese Kategorie umfasst fortschrittliche Tools und Plattformen, die mit ChatGPT 
 
 Falls du einen coolen Link hast der hier fehlt, lass es mich gerne wissen 🤝.
 
+## Inhaltsverzeichnis
+
+1. [Offizielle Ressourcen von OpenAI](#offizielle-ressourcen-von-openai)
+2. [Community und kostenlose KI-Ressourcen](#community-und-kostenlose-ki-ressourcen)
+3. [ChatGPT-Integrationen und -Projekte](#chatgpt-integrationen-und-projekte)
+   - [Python](#python)
+   - [Go und Kotlin](#go-und-kotlin)
+   - [JavaScript und Node.js](#javascript-und-nodejs)
+4. [API-Werkzeuge und Libraries](#api-werkzeuge-und-libraries)
+5. [Client-seitige Tools und Libraries](#client-seitige-tools-und-libraries)
+6. [Browser-Erweiterungen und User-Skripte](#browser-erweiterungen-und-user-skripte)
+7. [Desktop-Anwendungen](#desktop-anwendungen)
+8. [Editor-Plugins](#editor-plugins)
+   - [Vim](#vim)
+   - [Emacs](#emacs)
+   - [VSCode](#vscode)
+   - [Jetbrains](#jetbrains)
+   - [Sonstiges](#sonstiges)
+9. [Chatbots](#chatbots)
+10. [Erweiterte ChatGPT-Funktionen](#erweiterte-chatgpt-funktionen)
+11. [Web-Anwendungen](#web-anwendungen)
+12. [CLI-Tools und Shell-Erweiterungen](#cli-tools-und-shell-erweiterungen)
+13. [GitHub-Aktionen](#github-aktionen)
+14. [Cybersecurity-Tools](#cybersecurity-tools)
+15. [Prompt-Sammlungen und -Tools](#prompt-sammlungen-und-tools)
+16. [Reverse Proxies und alternative Endpoints](#reverse-proxies-und-alternative-endpoints)
+17. [KI-Experimente und Forschung](#ki-experimente-und-forschung)
+18. [Sprachmodelle und Alternativen](#sprachmodelle-und-alternativen)
+19. [Sonstiges](#sonstiges)
+
 ## Offizielle Ressourcen von OpenAI
 
 - [Offizielle ChatGPT-App](https://chat.openai.com) - Offizielle Web-App von OpenAI für ChatGPT
