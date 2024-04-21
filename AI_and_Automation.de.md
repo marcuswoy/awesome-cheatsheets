@@ -1,11 +1,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Lizenz](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/LICENSE)
 
-# AI Spickzettel 😎
+# Künstliche Intelligenz und Automatisierung 😎
 
 ## 🤔 Warum ein Spickzettel?
 "Du musst nicht alles wissen, nur wissen, wo du es findest."
 
-Diese Kategorie umfasst fortschrittliche Tools und Plattformen, die auf künstliche Intelligenz (KI), AI und Automatisierung spezialisiert sind. Sie bieten Ressourcen für Entwickler und Forscher, um mit KI-Modellen zu experimentieren oder eigene Lösungen zu entwickeln.
+Diese Kategorie umfasst fortschrittliche Tools und Plattformen, die auf künstliche Intelligenz (KI) und Automatisierung spezialisiert sind. Sie bieten Ressourcen für Entwickler und Forscher, um mit KI-Modellen zu experimentieren oder eigene Lösungen zu entwickeln.
 
 ## Inhaltsverzeichnis
 1. [Hugging Face](#hugging-face)
