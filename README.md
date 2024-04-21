@@ -4,7 +4,9 @@
 This repository contains resources and tools categorized by their application areas, available in both English and German. Select your preferred language to explore the corresponding documents.
 
 ## Contents
-
+- [Awesome ChatGPT Cheat Sheet 2024](#awesome-chatgpt-cheat-sheet-2024)
+  - [English](chatgpt-cheat-sheet-2024.en.md)
+  - [Deutsch](chatgpt-cheat-sheet-2024.de.md)
 - [Artificial Intelligence and Automation](#artificial-intelligence-and-automation)
   - [English](AI_and_Automation.en.md)
   - [Deutsch](AI_and_Automation.de.md)
@@ -19,6 +21,9 @@ This repository contains resources and tools categorized by their application ar
   - [Deutsch](JSON-LD-SNIPPETS.de.md)
 
 ## Description of Categories
+
+### Awesome ChatGPT Cheat Sheet 2024
+ Awesome ChatGPT Cheat Sheet 2024
 
 ### Artificial Intelligence and Automation
 Resources and platforms for developing and experimenting with AI and automation tools.
