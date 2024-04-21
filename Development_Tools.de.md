@@ -1,6 +1,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Lizenz](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/LICENSE)
 
-# Entwicklungswerkzeuge 😎
+# Entwicklungswerkzeuge Spickzettel 😎
 
 ## 🤔 Warum ein Spickzettel?
 "Du musst nicht alles wissen, nur wissen, wo du es findest."

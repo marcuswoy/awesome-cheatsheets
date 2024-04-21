@@ -16,3 +16,12 @@ Eine umfassende Anleitung zur Verwendung von Docker und Traefik für das Hosting
 
 ### Google Maps Scraper
 Ein GitHub Repository, das ein Tool zum Scrapen von Daten aus Google Maps bereitstellt, nützlich für Projekte, die standortbezogene Informationen benötigen. [GitHub Repository ansehen](https://github.com/omkarcloud/google-maps-scraper/tree/master)
+### Nginx Proxy Manager
+Eine einfache Verwaltungsoberfläche für Nginx als Proxy-Manager, um Domains und Zertifikate leicht zu verwalten. [Nginx Proxy Manager](https://nginxproxymanager.com/)
+
+### Ansible Grundlagen
+Umfassender Kurs zur Automatisierung der IT-Infrastruktur mit Ansible, ideal für Anfänger. [Ansible Grundlagen](https://www.udemy.com/course/ansible-grundlagen/learn/lecture/22065096?start=150#notes)
+
+### Nginx Documentation
+Detaillierte Dokumentation zu Nginx, einschließlich Variablen, Verzeichnisstrukturen und Modulen. [Nginx Documentation](https://nginx.org/en/docs/)
+
